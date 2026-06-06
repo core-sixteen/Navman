@@ -8,6 +8,8 @@ Made by [Daniel Guevara](https://github.com/core-sixteen)
 
 ## Install
 
+Copy and paste the following code inside your terminal:
+
 ```bash
 curl -fsSL https://boostype.com/navman/navmanInstaller.sh | bash
 ```
@@ -20,7 +22,7 @@ Run in Terminal:
 navman
 ```
 
-The app will ask for your credentials. 
+The app will ask for your credentials, use the following:
 
 > **Testing credentials** (for demo purposes only):
 > - Email: `test@navman.com`  
