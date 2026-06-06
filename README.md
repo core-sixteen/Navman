@@ -1,5 +1,5 @@
-# NavMan
-Signed by Apple.Inc
+# Navman
+***Notarized & Signed by Apple Inc.***
 
 Keyboard navigation app for MacOS Computers — Move your text cursor[carret] anywhere inside your computer without touching the arrow keys.
 Hosted inside [Boostype](https://boostype.com)
