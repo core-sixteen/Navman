@@ -49,4 +49,4 @@ Tap `Space` quickly → normal space character.
 
 ---
 
-© 2025 Daniel Guevara. All rights reserved.
+© 2026 Daniel Guevara. All rights reserved.
