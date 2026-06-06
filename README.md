@@ -49,6 +49,16 @@ Tap `Space` quickly → normal space character.
 - macOS
 - Accessibility permissions (the installer will guide you)
 
+## Feedback & Opinions
+
+Found a bug, have a suggestion, or just want to share what you think? I'd love to hear from you.
+
+Open an [issue](https://github.com/core-sixteen/navman/issues) and tell me:
+- What you think of NavMan
+- What's not working for you
+- What features you'd like to see added
+- Your macOS version
+
 ---
 
 © 2026 Daniel Guevara. All rights reserved.
