@@ -7,7 +7,7 @@ Hosted inside [Boostype](https://boostype.com)
 
 ---
 
-![Logo](navmanLogo.png)
+![Logo](navmanLogo.jpg)
 
 ## Install
 
